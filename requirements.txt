@@ -1,0 +1,8 @@
+gunicorn
+cython
+flask
+pandas
+xgboost
+tensorflow-cpu
+nltk
+scikit-learn
